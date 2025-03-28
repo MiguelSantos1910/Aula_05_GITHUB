@@ -1,0 +1,45 @@
+.exibicoes{
+    max-width: 1920px;
+    height: 125vh;
+    padding: auto;
+    margin: 10px;
+    border: 1px solid white;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.amostragem{
+    margin: 25px;
+    padding: 50px;
+    gap: 10px;
+    background-color: grey;
+    text-align: justify;
+    font-size: 18px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 4px 4px black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+.menu{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: gray;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 0px black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.opcao{
+    margin: 3px;
+    padding: 3px;
+    background-color: grey;
+    text-align: justify;
+    font-size: 16px;
+    color: white;
+}
